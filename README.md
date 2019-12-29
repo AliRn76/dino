@@ -1,7 +1,12 @@
 ## t-rex-runner
 
-<p>You can change the <h2>"return false;"</h2> to <h2>"return crashed;"</h2> on function below to have a normal game</p> <h3>:)</h3>
-
-<h2>function boxCompare(tRexBox, obstacleBox)</h2>
-
+You can change the " <a href=#>return false;</a> " to " <a href=#>return crashed;</a> " on function below to have a normal game
+<br>
+<br>
+<br>
+<a href=https://github.com/AliRn76/dino/blob/master/index.js#L1193>function boxCompare(tRexBox, obstacleBox)</a>
+<br>
+<br>
+<br>
+<h2> Good Luck   :)</h2>
 
